@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-lighthouselabs": "lighthouse-labs/eslint-config-lighthouselabs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,4 +20,5 @@
     "url": "https://github.com/kapildoppiogroup/barchart/issues"
   },
   "homepage": "https://github.com/kapildoppiogroup/barchart#readme"
+  
 }
